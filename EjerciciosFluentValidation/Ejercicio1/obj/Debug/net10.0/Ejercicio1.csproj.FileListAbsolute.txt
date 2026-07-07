@@ -1,0 +1,17 @@
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/bin/Debug/net10.0/Ejercicio1
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/bin/Debug/net10.0/Ejercicio1.deps.json
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/bin/Debug/net10.0/Ejercicio1.runtimeconfig.json
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/bin/Debug/net10.0/Ejercicio1.dll
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/bin/Debug/net10.0/Ejercicio1.pdb
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/bin/Debug/net10.0/FluentValidation.dll
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.csproj.AssemblyReference.cache
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.AssemblyInfoInputs.cache
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.AssemblyInfo.cs
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.csproj.CoreCompileInputs.cache
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.csproj.Up2Date
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.dll
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/refint/Ejercicio1.dll
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.pdb
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/Ejercicio1.genruntimeconfig.cache
+/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/obj/Debug/net10.0/ref/Ejercicio1.dll

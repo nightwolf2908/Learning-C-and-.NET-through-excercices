@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hcr3O6/dV6I=",
+  "success": true,
+  "projectFilePath": "/home/abdiel/Documentos/Programacion/C#/EjerciciosFluentValidation/Ejercicio1/Ejercicio1.csproj",
+  "expectedPackageFiles": [
+    "/home/abdiel/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

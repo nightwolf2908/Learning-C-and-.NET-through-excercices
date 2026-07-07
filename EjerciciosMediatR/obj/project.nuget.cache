@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "in7vcEFwqLk=",
+  "success": false,
+  "projectFilePath": "/home/abdiel/Documentos/Programacion/C#/MediatR/MediatR.csproj",
+  "expectedPackageFiles": [
+    "/home/abdiel/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/home/abdiel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Ciclo detectado. \n  MediatR -> MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 -> MediatR (>= 11.0.0 && < 12.0.0).",
+      "projectPath": "/home/abdiel/Documentos/Programacion/C#/MediatR/MediatR.csproj",
+      "filePath": "/home/abdiel/Documentos/Programacion/C#/MediatR/MediatR.csproj",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
