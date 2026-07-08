@@ -8,6 +8,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="ejercicio1.cs"/>
+    <Compile Remove="ejercicio2.cs"/>
   </ItemGroup>
 
 </Project>
