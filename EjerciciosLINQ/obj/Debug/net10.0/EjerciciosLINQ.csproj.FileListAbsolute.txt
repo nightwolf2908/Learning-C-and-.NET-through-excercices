@@ -1,0 +1,15 @@
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/bin/Debug/net10.0/EjerciciosLINQ
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/bin/Debug/net10.0/EjerciciosLINQ.deps.json
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/bin/Debug/net10.0/EjerciciosLINQ.runtimeconfig.json
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/bin/Debug/net10.0/EjerciciosLINQ.dll
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/bin/Debug/net10.0/EjerciciosLINQ.pdb
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/EjerciciosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/EjerciciosLINQ.AssemblyInfoInputs.cache
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/EjerciciosLINQ.AssemblyInfo.cs
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/EjerciciosLINQ.csproj.CoreCompileInputs.cache
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/EjerciciosLINQ.sourcelink.json
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/EjerciciosLINQ.dll
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/refint/EjerciciosLINQ.dll
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/EjerciciosLINQ.pdb
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/EjerciciosLINQ.genruntimeconfig.cache
+/home/abdiel/Documentos/Programacion/C#/EjerciciosLINQ/obj/Debug/net10.0/ref/EjerciciosLINQ.dll
