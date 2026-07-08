@@ -6,5 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="ejercicio1.cs"/>
+    <Compile Remove="ejercicio2.cs"/>
+  </ItemGroup>
 
 </Project>

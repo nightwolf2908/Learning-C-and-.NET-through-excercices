@@ -1,5 +1,4 @@
 ﻿using System;
-
 public class Animal
 {
     protected string Nombre { get; set; }
