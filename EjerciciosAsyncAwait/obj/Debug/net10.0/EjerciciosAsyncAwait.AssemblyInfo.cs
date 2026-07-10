@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjerciciosAsyncAwait")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9a348a7099213833923f3608ca5ae2479c34f5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13bc15b1e536e5c34fb3c6e59a2b3a19f2bbe59a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjerciciosAsyncAwait")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjerciciosAsyncAwait")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

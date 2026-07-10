@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioMediatR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e53c46891b5daa285cef508487c11e2266df091")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13bc15b1e536e5c34fb3c6e59a2b3a19f2bbe59a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioMediatR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioMediatR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
